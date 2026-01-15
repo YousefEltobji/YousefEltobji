@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd year computer science student at Wayne State University, I am passionate about exploring the coding world, machine learning, and building quality applications.
+I am a computer science student at Wayne State University, I am passionate about exploring the coding world, machine learning, and building quality applications.
 
 
 ## 🌐 Socials:
